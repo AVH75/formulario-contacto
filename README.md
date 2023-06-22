@@ -5,5 +5,3 @@ Formulario de contacto desarrollado con PHP
 ## Instalación 
 Este proyecto no necesita de instalación.
 
-## Contratación 
-Si quieres contratarme puedes escribirme a PROVINCIAELIAS@GMAIL.COM para consultas. 
