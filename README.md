@@ -1,15 +1,7 @@
 ## Descripción 
 Formulario de contacto desarrollado con PHP
-
-## Autor 
-- ELIAS ROY PROVINCIA MAQQUERA
-
-* [LinkedIn](https://www.linkedin.com/in/eliasprovincia/) 
-* [Porfolio web](https://eliasroy.github.io/portafolio/) 
-
-## Ver ejemplo en vivo 
-- [Formulario Contacto](https://formulario-contacto-php.herokuapp.com/)
-
+* [LinkedIn](www.linkedin.com/in/alejandro-vega-792817243) 
+* [Porfolio web](https://avh75.github.io/) 
 ## Instalación 
 Este proyecto no necesita de instalación.
 
